@@ -1,0 +1,1 @@
+This repo holds short descriptions of the content of my F# mentoring sessions.
